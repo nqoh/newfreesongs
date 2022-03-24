@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<head>
+</head>
+<body>
+  <input type="file" onchange="myfile()" id="file"><br>
+  <span id="status"></span>
+  <script>
+  function myfile(){
+    var file = document.getElementById('file').files[0];
+	 document.getElementById('status').innerHTML= file.type
+	 }
+  </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW, NOARCHIVE" />
+	<title>Music All Over - 404 error</title>
+		<link rel= "stylesheet" href="style/mlondie.css" type="text/css" />
+        <link rel="stylesheet" href="style/small.css" type="text/css" media="screen and (min-width: 0px)"> 
+        <link rel="stylesheet" href="style/smally.css" type="text/css" media="screen and (min-width: 400px)">
+        <link rel="stylesheet" href="style/s_small.css" type="text/css" media="screen and (min-width: 600px)">
+        <link rel="stylesheet" href="style/mediam.css" type="text/css" media="screen and (min-width: 900px)">
+        <link rel="stylesheet" href="style/large.css" type="text/css" media="screen and (min-width: 1200px)">
+        <link rel="icon" type="image/ico" href="thumbnails/favicon (4).ico">
+</head>
+<body>
+<div id="main">
+<div id="header" align="center"><a  href="home/" ><img src="thumbnails/Olova Logo ceeerc.png" style="margin:0px auto"></a></div>
+<hr>
+<p align=center><a href="http://click.buzzcity.net/click.php?partnerid=119138&ts=[time]&browser=OPERAMINI  &browser=BOLT &browser=app_windows
+&browser=app_blackberry &browser=app_apple &browser=app_android &browser=app_j2me &bn=1">
+  <img src="http://show.buzzcity.net/show.php?partnerid=119138&get=image &bn=1" alt="click" />
+</a></p>
+<hr>
+<div id="side">
+<h1 align=center> 404 Not Found</h1>
+<h2 align=center style="color:#F00"> The requested resource could not be found but may be available in the future. </h2>
+</div>
+
+<hr>
+<a href="home/" style="font-size:20px;">Home</a>
+<hr>
+<p align=center>
+<script type='text/javascript' src='http://ads.qadserve.com/t?id=59c94900-b85e-43f2-a056-1d5afe057d2b&size=320x50'></script>
+<p align=center><a href="http://click.buzzcity.net/click.php?partnerid=119138&ts=[time]&browser=OPERAMINI  &browser=BOLT &browser=app_windows
+&browser=app_blackberry &browser=app_apple &browser=app_android &browser=app_j2me &bn=2">
+  <img src="http://show.buzzcity.net/show.php?partnerid=119138&get=image &bn=2" alt="click" />
+</a></p>
+<hr>
+<br>
+    <p id="footer">OlovaMp3 &copy; <?php echo date('Y') ?> &nbsp; <a href="contactus/" style="color:#eed5b7"><b>Contact Us</b></a> - <a href="aboutus/" style="color:#eed5b7"><b>About Us</b></a> - <a href="privacypolicy" style="color:#eed5b7"><b>Privacy Policy</b></a>
+<img src="thumbnails/likeus.png" width="55" height="15" border="0" usemap="#four" />
+<map name="four">
+<area shape="rect" coords="5,0,26,14" alt="Like OlovaMp3" href="https://www.facebook.com/pages/Mp3Olova/1512466575638686">
+<area shape="rect" coords="33,0,52,14" alt="follow OlovaMp3" href="https://twitter.com/OlovaMp3">
+</map>
+<br> This Website is For Entertainment use only
+</p>
+</div>
+
+</body>
+
+</html>
